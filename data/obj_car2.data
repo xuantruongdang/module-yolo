@@ -1,0 +1,5 @@
+classes = 1
+train = data/train_car2.txt
+valid = data/val_car2.txt
+names = data/obj_car2.names
+backup = car2_weights
